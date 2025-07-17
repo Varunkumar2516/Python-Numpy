@@ -51,7 +51,7 @@ This guide is structured through hands-on notebooks, each building your understa
 
 
 ##  Navigation
-- ⬅ [Click ! For Python 30 Day guide ](../1PYTHON)
+- ([Link](https://github.com/Varunkumar2516/PYTHON.git))
 
 
 ## 🤝 Contributions
